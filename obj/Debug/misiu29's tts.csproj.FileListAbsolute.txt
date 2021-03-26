@@ -1,0 +1,13 @@
+C:\Users\misiu29\source\repos\misiu29's tts\bin\Debug\misiu29's tts.exe
+C:\Users\misiu29\source\repos\misiu29's tts\bin\Debug\misiu29's tts.pdb
+C:\Users\misiu29\source\repos\misiu29's tts\bin\Debug\Interop.SpeechLib.dll
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.csprojAssemblyReference.cache
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\Interop.SpeechLib.dll
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.csproj.ResolveComReference.cache
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29_s_tts.Form1.resources
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29_s_tts.Properties.Resources.resources
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.csproj.GenerateResource.cache
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.csproj.CoreCompileInputs.cache
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.exe
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29's tts.pdb
+C:\Users\misiu29\source\repos\misiu29's tts\obj\Debug\misiu29_s_tts.Form2.resources
